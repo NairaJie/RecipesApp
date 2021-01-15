@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RecipesApp</string>
+    <string name="text_more">more</string>
+    <string name="text_email">nairaxaviera@gmail.com</string>
+    <string name="_top_menu">top menu</string>
+    <string name="_nasi_goreng">nasi_goreng</string>
+    <string name="nasi_goreng">nasi_goreng</string>
+    <string name="sate">sate</string>
+    <string name="siomay">siomay</string>
+    <string name="batagor">batagor</string>
+    <string name="name">Nailah</string>
+    <string name="top_menu">top_menu</string>
+    <string name="soto">soto</string>
+    <string name="gudeg">gudeg</string>
+    <string name="gado">gado</string>
+    <string name="bakso">bakso</string>
+    <string name="image_view">image_view</string>
+    <string name="bakmi">bakmi</string>
+    <string name="descrition">descrition</string>
+</resources>
