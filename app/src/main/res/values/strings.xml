@@ -18,4 +18,463 @@
     <string name="image_view">image_view</string>
     <string name="bakmi">bakmi</string>
     <string name="descrition">descrition</string>
+    <string-array name="name_food">
+        <item>Soto</item>
+        <item>telur dadar</item>
+        <item>Sandwich</item>
+        <item>Matcha latte</item>
+        <item>Dalgona Coffe</item>
+        <item>Seblak</item>
+        <item>Cimol</item>
+        <item>Cilor</item>
+        <item>Churro</item>
+        <item>Mie Goreng</item>
+        <item>Nasi Goreng</item>
+        <item>Es teh manis</item>
+        <item>Jus Mangga jeli</item>
+        <item>Yogurt mangga</item>
+        <item>Manisan mangga</item>
+        <item>Sosis bakar</item>
+        <item>Pancake</item>
+        <item>Lumpia coklat</item>
+        <item>Singkong goreng</item>
+        <item>Bakwan</item>
+        <item>Perkedel</item>
+        <item>Potato cheese steak</item>
+        <item>Tahu crispy</item>
+        <item>Lumpia tahu goreng</item>
+        <item>Es melon</item>
+    </string-array>
+    <string-array name="desc_food">
+        <item>soto adalah makanan khas Indonesia seperti sop yang terbuat dari kaldu daging dan sayuran.</item>
+        <item>telur dadar atau omelet adalah variasi hidangan telur goreng</item>
+        <item>Roti lapis atau roti isi, adalah makanan yang biasanya terdiri dari sayuran, keju atau daging yang diiris, diletakkan di atas atau di antara irisan roti</item>
+        <item>Matcha itu adalah teh hijau dari Jepang yang memang mengalami proses yang khusus. Memiliki rasa yg creamy</item>
+        <item>Kopi dalgona adalah minuman yang dibuat dengan mencampurkan kopi instan, gula, dan air panas dengan jumlah perbandingan yang sama.</item>
+        <item>Seblak adalah makanan Indonesia yang dikenal berasal dari Bandung, Jawa Barat yang bercita rasa gurih dan pedas. Terbuat dari kerupuk basah.</item>
+        <item>Cimol adalah makanan ringan yang dibuat dari tepung kanji</item>
+        <item>Cilor merupakan kependekan dari aci telor. Street food khas Bandung ini punya gurih</item>
+        <item>Churro adalah sebuah makanan ringan berbahan dasar pastri dough goreng, biasanya choux.</item>
+        <item>Mi goreng berarti "mi yang digoreng" adalah makanan yang berasal dari Indonesia.</item>
+        <item>Nasi goreng adalah sebuah makanan berupa nasi yang digoreng</item>
+        <item>teh manis yang diberi es biasa disebut es teh</item>
+        <item>Jus yang berasal dari buah mangga yang berwarna kuning ini, rasanya manis dan memiliki banyak serat. </item>
+        <item>Yogurt yang terbuat dri mangga</item>
+        <item>Manisan ini memiliki perpaduan rasa manis, pedas, asin, serta asam yang dominan</item>
+        <item>Sosis yg dibakar dan mempunyai rasa yg pedas ataupun manis</item>
+        <item>Pancake adalah kue dadar yang dibuat dari terigu, telur ayam, gula dan susu. </item>
+        <item>Lumpia adalah salah satu penganan tradisional yang bisa Anda temukan dengan mudah di tempat-tempat jajanan pasar</item>
+        <item>Singkong goreng adalah salah satu makanan yg sering dibuat di indonesia</item>
+        <item>Bakwan ini terbuat dari adonan tepung terigu yang diberi berbagai isi sayuran dan bumbu.</item>
+        <item>Perkedel adalah makanan yang terbuat dari kentang yang telah digoreng</item>
+        <item>Potato cheese stick, perpaduan antara kentang dan keju pasti bikin lidahmu tak sabar mencicipi rasa gurihnya.</item>
+        <item>Tahu crispy merupakan salah satu jajanan yang digemari banyak orang</item>
+        <item>Segarnya timun ditambah sirup melon dan es batu, dijamin bisa menghilangkan dahaga karena panasnya cuaca.</item>
+    </string-array>
+
+    <string-array name="ingrediensts">
+        <item>
+        1 ekor ayam
+        <br />2,5 lt air
+        <br />garam
+        <br />kaldu bubuk
+        <br />13 siung bawang merah
+        <br />9 siung bawang putih
+        <br />6 butir kemiri, sangrai
+        <br />4 cm kunyit, sangrai
+        <br />1 sdt ketumbar bubuk
+        <br />1 sdt lada bubuk
+        <br />8 cm jahe, kupas
+        <br />7 cm laos
+        <br />4 lembar salam
+        <br />7 lembar daun jeruk
+        <br />2 batang serai *geprek
+        <br />2 buah asam kandis
+        <br />telur rebus
+        <br />bihun seduh
+        <br />sambel rawit
+        <br />bawang merah, goreng</item>
+
+        <item>Telur<br />garam</item>
+
+        <item>4 lembar roti tawar tanpa kulit
+            <br />2 lembar daun selada
+            <br />2 butir telur
+            <br />2 lembar smoked beef
+            <br />1 buah tomat atau timun
+            <br />2 lembar keju slice
+            <br />Secukupnya mayonnaise
+            <br />saos</item>
+
+        <item>2 sdt matha bubuk berkualitas bagus
+            <br/> 2 sdm gula pasir
+            <br/>150 ml air panas
+            <br/>500 ml susu full cream.</item>
+
+        <item>2 sendok makan NESCAFÉ Classic
+            <br/>2 sendok makan gula putih
+            <br/> 125 ml susu cair
+            <br/> 1 gelas es batu </item>
+
+        <item>1/4 kerupuk kering orange
+            <br/>1 butir telur
+            <br/>8 siung bawang merah
+            <br/>4 siung bawang putih
+            <br/>2 ruas jari kencur (aku suka lebih banyak kencurnya)
+            <br/>1/2 buah tomat
+            <br/>5 buah cabe rawit (sesuai selera, klo mau pedes tinggal tambah)
+            <br/>2 tangkai bawang daun
+            <br/>1 gandu kecil gula merah (yang harga 500 di warung)
+            <br/>1 bungkus kecil royco
+            <br/>secukupnya Air
+            <br/>Minyak untuk menumis</item>
+
+        <item>100 ml air
+            <br/>1 sdm (1 siung) bawang putih)
+            <br/>125 gr (8 sdm munjung) tepung tapioka/kanji
+            <br/>1/2 sdm tepung terigu serbaguna
+            <br/>1/2 sdm kaldu ayam bubuk royco
+            <br/>secukupnya Minyak sayur</item>
+
+
+        <item>10 sdm tepung tapioka
+            <br/>1 sdt kaldu bubuk
+            <br/>2 butir telur
+            <br/>Tusuk sate
+            <br/>Air
+            <br/>Garam</item>
+
+        <item>50 ml air 100 gram mentega tawar atau margarin
+            <br/> 150 gram tepung terigu protein sedang
+            <br/>1/4 sendok teh garam
+            <br/> 3 butir telur minyak untuk menggoreng</item>
+
+        <item>3 baput
+<br/>6 bamer
+<br/>4 bh kemiri
+<br/>1 sdm saos tiram
+<br/>1 bh wortel
+<br/>1/2 kol
+<br/>secukupnya baso dan udang
+<br/>secukupnya kucai dan toge
+<br/>secukupnya kapri
+<br/>2 bks mie burung dara keriting</item>
+
+        <item>1 Mangkok Nasi Dingin
+<br/>1 Buah Telur Ayam
+<br/>Beberapa Potong Ayam Goreng
+<br/>Beberapa Potong Wortel Rebus
+<br/>1 Buah Bawang Merah
+<br/>Secukupnya Garam
+<br/>Secukupnya Minyak Goreng</item>
+
+        <item>teh
+        <br/>gula
+        <br/>es </item>
+
+        <item>1 bungkus Nutrijell mangga
+<br/>700 ml air
+<br/>100 gr gula pasir
+<br/>1 buah mangga harumanis
+<br/>2 bungkus minuman bubuk rasa mangga
+<br/>200 gram es batu serut/ hancurkan
+<br/>400 ml air dingin</item>
+
+        <item>2 buah mangga harum manis
+<br/>300 gr yogurt tawar
+<br/>1 sdm madu atau 2 sendok gula pasir
+<br/>400 ml air mineral
+<br/>Es batu secukupnya</item>
+
+        <item>1/2 kg mangga muda
+            <br/>5-7 sdm gula pasir (sesuai selera)
+            <br/>300-400 ml air (sesuai selera)
+            <br/>1 tetes pewarna kuning (saya skip, stok didapur kosong)</item>
+
+        <item>1 sdm margarin
+<br/>5 buah sosis ayam fiesta
+<br/>1 sdm saus saus tomat
+<br/>1 sdm saus barbeque
+<br/>kecap sesuai selera
+<br/>1 sdm saus sambal</item>
+
+        <item>100 gram tepung terigu
+            <br/>250 ml susu cair Garam sedikit
+            <br/>1 butir telur Margarin untuk olesan</item>
+
+        <item>Kulit lumpia
+<br/>Pisang Raja yang sudah matang, potong-potong
+<br/>Meises cokelat
+<br/>Keju milky soft, diparut
+<br/>Putih telur secukupnya sebagai perekat</item>
+
+        <item> 1 kg singkong kualitas bagus, kupas, cuci bersih dan potong-potong sesuai selera
+<br/>5 siung bawang putih halus dan ketumbar secukupnya
+<br/>Garam secukupnya
+<br/>Air dingin dari dalam kulkas secukupnya buat merendam singkong
+<br/>Minyak untuk menggoreng
+</item>
+        <item>2 buah jagung manis
+            <br/>5 sdm munjung tepung beras
+            <br/>3 sdm munjung tepung terigu
+            <br/>1 butir telur
+            <br/>1 tangkai daun bawang iris halus
+            <br/>Air secukupnya
+            <br/>Garam, gula, kadu jamur
+            <br/>1/2 sdt meriaca bubuk
+            <br/>6 siung bawang merah
+            <br/>3 siung bawang putih
+            <br/>1 sdt ketumbar</item>
+
+        <item> 4 buah kentang ukuran sedang
+<br/>1 buah wortel ukuran kecil diparut
+<br/>5 buah cabai merah
+<br/>6 siung bawang merah, goreng
+<br/>3 siung bawang putih, goreng
+<br/>1 batang daun seledri, diiris halus
+<br/>Garam, lada, pala, kaldu jamur secukupnya
+<br/>1 butir telur, kocok
+<br/>Minyak untuk menggoreng</item>
+
+        <item>- 500 gr kentang
+<br/>90 gr keju parut
+<br/>100 gr tepung maizena
+<br/>1/2 sdt garam
+<br/>Sejumput merica bubuk
+<br/>Sehelai seledri cincang halus</item>
+
+        <item>10 potong tahu, bagi 2
+<br/>50 gr tepung terigu
+<br/>1/4 - 1/2 sdm tepung tapioka
+<br/>1 sdt baking powder
+<br/>1 sdt garam
+<br/>2 sdt kaldu bubuk
+<br/>250 - 300 ml air
+<br/>Minyak untuk menggoreng</item>
+
+        <item>1 buah tahu putih cincang
+<br/>100 gr udang cincang halus
+<br/>1 buah wortel cincang halus
+<br/>Daun bawang kecil iris-iris
+<br/>2 butir bawang merah, 1 bawang putih haluskan
+<br/> Kulit lumpia
+<br/>Garam, lada bubuk, penyedap
+<br/>Putih telur untuk merekatkan ujung lumpia</item>
+
+        <item>1/2 buah melon
+<br/>200 gr nata de coco
+<br/>1 sdm selasih rendam dg air hangat
+<br/>500 ml air
+<br/>200 ml sirup
+<br/>Secukupnya lemon</item>
+
+    </string-array>
+
+    <string-array name="steps">
+        <item>1. Didihkan air. Masukkan ayam dan bumbu tambahan. Rebus sampai ayam empuk.
+<br />2. Selagi merebus, tumis bumbu halus sampai matang.
+<br />3. Masukan tumisan bumbu ke dalam rebusan ayam. Beri garam dan kaldu bubuk. Masak hingga meresap. Koreksi rasa. Matikan api.
+<br />4. Angkat ayam, tiriskan, goreng lalu suir suir. Tempatkan pada wadah.
+<br />5. Sajikan soto lamongan bersama ayam suir dan pelengkapnya.</item>
+
+        <item>Kocok telur terlebih dahulu <br />Goreng di minyak panas </item>
+
+        <item>Cuci bersih daun selada dan potong tipis tomat atau timun.
+<br/>Sandwich Simple Sederhana langkah memasak 1 foto
+<br/>Masak telor ceplok dengan sdkt garam. Goreng sebentar saja smoked beef di teflon dg sdkt minyak.
+<br/>Ambil 1 lembar roti tawar. Tata daun selada, telor ceplok, smoked beef, potongan tomat atau timun, mayonnaise saos sambal dan saos tomat, tutup dengan 1 lembar roti tawar.
+<br/>Potong secara diagonal sandwich agar lebih mudah saat dimakan dan bentuknya lbh cantik.</item>
+
+        <item>Tuangi air panas dan aduk hingga matcha larut.
+<br/>Panaskan susu hingga hampir mendidih. Angkat. Kocok susu dengan kocokan kawat hingga berbuih halus.
+<br/> Tuang larutan matcha dalam 2 buah cangkir keramik lalu tuangkan susu yang sudah dikocok berbuih halus. Tambahkan gula.</item>
+
+        <item>Masukkan NESCAFÉ Classic dan gula ke dalam mangkuk kecil, lalu
+            <br/>tambahkan air panas sebanyak 2 sendok makan.
+            <br/>Aduk hingga mengembang dan menjadi whipped coffee.
+            <br/>Tuangkan susu cair ke dalam gelas dan masukkan es batu sesuai selera.
+            <br/>Tuangkan whipped coffee yang telah kamu buat sebelumnya.</item>
+
+        <item> Rendam kerupuk pakai air dingin. Sambil merendam kerupuk
+            <br/>haluskan bawang merah, bawang putih, kencur, cabe rawit, tomat, dan gula merah. Sisihkan.
+            <br/>Panaskan minyak. Masukkan telur, lalu orak arik sampai hancur. Kemudian masukkan bumbu halus tadi, aduk-aduk sampai wangi.
+            <br/>Buang air rendaman kerupuk. Lalu masukkan kerupuk ke dalam bumbu dan telur. Kemudian tambahkan air secukupnya sampai kerupuk terendam. Tambahkan royco. Aduk-aduk.
+            <br/>Masukkan potongan bawang daun. Aduk-aduk, lalu koreksi rasa.
+            <br/>Jika dirasa bumbu sudah pas dan air sudah mengental. Matikan kompor, pindahkan seblak ke mangkok. Siap disajikan</item>
+
+        <item>Campur tapioka dan tepung beras.
+             <br/>Ambil 2 sdm ke dalam panci dan masukkan semua bumbu.. Didihkan sampai jadi lem.
+            <br/>Matikan kompor. Masukkan tepung kering. Aduk rata hingga bisa dipulung. Masukkan ke minyak dingin dalam wajan.
+            <br/>Goreng hingga matang dan taburi bumbu bubuk sesuai selera. Gak bakalan meletus kalo masukin ke minyak dingin, gunakan api kecil saat menggoreng..
+        </item>
+        <item>Masukan tapioka tambahkan garam secukupnya lalu siram dengan air panas
+            <br/>uleni sampai kalis lalu pipihkan dan rebus sampai matang.
+            <br/>setelah matang angkat tiriskan,setelah dingin potong2 adonan cilor lalu tusuk pada tusukan sate
+            <br/>Goreng cilor setengah matang lalu celupkan k telur yg sudah di kocok dengan kaldu bubuk lalu goreng lagi
+            <br/>Goreng hingga telur kering dan angkat</item>
+
+        <item>Rebus air bersama dengan butter dan garam
+        <br/>masukkan tepung, aduk hingga adonan menggumpal
+        <br/>pindahin adonan tepung ke dalam baskom,diamkan hingga mendidih
+        <br/>Masukkan adonan ke dalam piping bag dengan ukuran spuit sesuai selera
+        <br/>Selanjutnya panaskan minyak dalam wajan dengan api sedang. Jika minyak sudah panas bisa masukan adonannya.
+        <br/>Masukkan adonan ke dalam wajan dengan ukuran panjang sesuai selera, lalu goreng hingga kuning kecoklatan.</item>
+
+        <item>Potong bahan2 nya yg sudah ada, ulek baput, bamer, kemiri
+<br/>Rebus mie hingga matang beri sedikit minyak di air rebusan nya
+<br/>Setelah mie matang beri kecap asin, saus tiram dan kecap manis
+<br/>Tumis bumbu yg sudah diulek, dan bahan2 yang tadi sudah dipotong2 masak hingga matang, setelah matang masukan mie yg tdi sudah disiapkan tinggal diaduk dan siap dihidangkan.</item>
+
+        <item>siapkan bahan-bahan sesuai takaran.
+            <br/>Kocok telur ayam sampai rata.
+            <br/>Ayam goreng di potong kecil-kecil. Pastikan potongannya mudah di kunyah anak kecil.
+            <br/>Wortel rebus di potong kecil-kecil.
+            <br/>Iris bawang merah sampai halus.
+            <br/>Tuangkan minyak goreng secukupnya. Tumis bawang merah sampai harum.
+            <br/>Tuangkan telur ayam. Aduk sampai rata.
+            <br/>Masukkan potongan ayam goreng. Aduk hingga rata.
+            <br/>Masukkan nasi dingin. Gunakan nasi yang sudah di dinginkan untuk hasil nasi goreng yang kering (tidak lengket). Aduk hingga rata.
+            <br/>Masukkan potongan wortel rebus. Aduk hingga rata.
+            <br/>Masukkan garam secukupnya. Aduk hingga rata.
+            <br/>Sajikan selagi hangat.</item>
+
+        <item>Seduh teh pakai air hangat
+        <br/>aduk secara merata
+        <br/>tambahkan gula
+        <br/>tambahkan es batu</item>
+
+        <item> Masak Nutrijell, air dan gula hingga mendidih. Angkat dan biarkan uap hilang lalu tuang di cetakan.
+<br/>Setelah dingin potong kecil-kecil.
+<br/>Blender buah mangga, 2 bungkus minuman bubuk mangga, es batu dan air dingin hingga lembut.
+<br/>Masukan potongan jeli ke botol atau gelas, tuang jus mangga.
+<br/>Aduk rata dan sajikan.</item>
+
+        <item> Kupas dan potong-potong buah mangga.
+<br/>Blender jadi satu mangga, yogurt, gula dan air sampai halus.
+<br/>Tuang ke dalam gelas saji, tambahkan es batu.
+<br/>Yogurt mangga siap diminum.</item>
+
+        <item>Kerat sosis, panggang di teflon dengan margarin.
+<br/>Tambahkan bahan sausnya.</item>
+
+        <item> Siapin wadah
+            <br/>masukin semua bahan
+            <br/>kocok putih telur dengan menggunakan mixer pada wadah yang berbeda
+            <br/>Panaskan teflon
+            <br/>uangkan sekitar 2.5 sendok sayur adonan
+            <br/>tutup dengan menggunakan tutup panci
+            <br/>Tunggu sebentar dan balik adonan. Masak sampai matang berwarna kecoklatan.</item>>
+
+
+        <item>Ambil kulit lumpia
+<br/>Taburi meises dan keju parut
+<br/>Lipat, gulung, lem pinggirnya dengan putih telur
+<br/>Siap digoreng
+<br/>Angkat lumpia setelah garing dan berubah warna, tiriskan
+<br/>Sajikan hangat</item>
+
+        <item>Kukus singkong sampai empuk kurang lebih 25 menit
+           <br/>Sediakan wadah masukkan air es, kemudian tambahkan garam, ketumbar dan bawang putih halus,
+           <br/> test rasa jika sudah pas rasanya, masukkan singkong dalam keadaan panas ke dalam air es dingin, diamkan singkong hingga merekah dengan sendirinya
+           <br/>Kemudian tiriskan, dan goreng kecokelatan sampai warnanya pas
+           <br/>dan sajikan</item>
+
+        <item>Sisir/pipil jagung, sebagian hancurkan menggunakan ulekan, sebagian lagi biarkan utuh
+<br/>Campur semua bahan, aduk hingga rata, koreksi rasanya, air di tuang sedikit-sedikit hingga menjadi adonan kental pekat
+<br/> Panaskan minyak goreng, tuang 1 sendok sayur adonan, goreng hingga matang, lakukan hingga adonan habis</item>
+
+        <item>Kupas kentang cuci bersih, potong-potong lalu goreng sampai matang, tiriskan
+<br/>Ulek bawang merah goreng, bawang putih goreng, dan cabai hingga halus
+<br/>Ulek kentang hingga halus, sambil dicampur dengan bahan-bahan lainnya, ulek hingga semua tercampur rata
+<br/>Bulatkan adonan lalu pipihkan
+<br/>Panaskan minyak untuk menggoreng
+<br/>Celupkan perkedel satu per satu ke telur kocok lalu digoreng
+<br/>Goreng sampai kecokelatan
+<br/>Waktu menggoreng jangan sering dibolak-balik, hanya 1 kali balik saja agar tidak hancur</item>
+
+        <item> Cuci kentang kemudian rebus kentang hingga matang
+<br/>Dinginkan kentang
+<br/>Kupas kentang dan haluskan
+<br/>Masukkan tepung maizena, keju parut, seledri, garam dan merica
+<br/>Aduk rata
+<br/>lalu cetak bulat memanjang
+<br/>Goreng dan sajikan</item>
+
+        <item>- Di dalam wadah campurkan tepung terigu, tepung tapioka, garam, kaldu bubuk, baking powder dan air. Aduk sampai rata
+<br/>Masukkan tahu ke dalam adonan. Panaskan minyak, lalu goreng tahu sampai kering dan mengembang
+<br/>Gunakan api besar saat menggoreng, pastikan minyak dalam keadaan panas
+<br/>Jika tahu sudah mengembang tuang adonan, setelah adonan kering lalu tuang lagi adonan ke dalam wajan, lakukan sebanyak 2 kali
+<br/>Angkat dan sajikan
+</item>
+
+        <item>Panaskan minyak, tumis bawang merah dan putih sampai harum
+<br/>Masukkan udang dan wortel cincang, aduk-aduk, tambahkan tahu dan cabai
+<br/> Masukkan garam, gula dan lada bubuk, tes rasa
+<br/>Siapkan kulit lumpia, beri isian lalu lipat dengan menggulung
+<br/>Kerjakan sampai selesai lalu goreng hingga kecokelatan dan warnanya pas.
+</item>
+
+        <item>Kerok buah melon, sisihkan.
+<br/>Dalam wadah, campur air + sirup, aduk rata sisihkan.
+<br/>Masukkan nata de coco, selasih, lalu buah melon,.lalu tuang campuran air+ sirup.beri secukupnya irisan lemon
+<br/>Selesai.</item>
+
+    </string-array>
+
+    <string-array name="rating">
+        <item>4</item>
+        <item>4</item>
+        <item>4</item>
+        <item>3</item>
+        <item>3</item>
+        <item>4</item>
+        <item>3</item>
+        <item>5</item>
+        <item>4</item>
+        <item>3</item>
+        <item>4</item>
+        <item>2</item>
+        <item>5</item>
+        <item>4</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>3</item>
+        <item>4</item>
+        <item>4</item>
+        <item>3</item>
+        <item>5</item>
+        <item>2</item>
+        <item>4</item>
+        <item>3</item>
+    </string-array>
+
+    <string-array name="photo_food">
+        <item>https://ibb.co/vLFxsyf</item>
+        <item>https://ibb.co/j634S7h</item>
+        <item>https://ibb.co/55fT27y</item>
+        <item>https://ibb.co/z70LsXh</item>
+        <item>https://ibb.co/ygfjYjB</item>
+        <item>https://ibb.co/cXN1p0s</item>
+        <item>https://ibb.co/4K6Mpgn</item>
+        <item>https://ibb.co/h9pJ77C</item>
+        <item>https://ibb.co/HXm8dc6</item>
+        <item>https://ibb.co/JdNrZdW</item>
+        <item>https://ibb.co/5YLZbR9</item>
+        <item>https://ibb.co/Pw7Vqy8</item>
+        <item>https://ibb.co/9rZSrtw</item>
+        <item>https://ibb.co/RCvkSzq</item>
+        <item>https://ibb.co/HKdmhcB</item>
+        <item>https://ibb.co/b6qk9cd</item>
+        <item>https://ibb.co/yBtm19k</item>
+        <item>https://ibb.co/LP44RkQ</item>
+        <item>https://ibb.co/NFLL0pF</item>
+        <item>https://ibb.co/G90PLpR</item>
+        <item>https://ibb.co/pPW8zn6</item>
+        <item>https://ibb.co/k9J87ZV</item>
+        <item>https://ibb.co/k9J87ZV</item>
+        <item>https://ibb.co/N9bxDg3</item>
+    </string-array>
+
+
 </resources>

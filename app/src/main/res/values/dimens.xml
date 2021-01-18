@@ -15,4 +15,5 @@
     <dimen name="_190dp">190dp</dimen>
     <dimen name="_150dp">150dp</dimen>
     <dimen name="_12sp">12sp</dimen>
+    <dimen name="_16SP">16sp</dimen>
 </resources>

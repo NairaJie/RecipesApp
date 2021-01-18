@@ -32,7 +32,7 @@
             android:layout_toEndOf="@id/iv_item_food"
             android:fontFamily="@font/poppins_light"
             android:text="@string/bakmi"
-            android:textSize="16sp"
+            android:textSize="@dimen/_16sp"
             android:textStyle="bold" />
 
         <TextView
